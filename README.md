@@ -49,7 +49,7 @@ A responsive, feature-rich personal finance web application built specifically f
 
 1. Navigate to the project directory:
    ```bash
-   cd "/Users/shardulsharadtoley/Documents/Project/Student-Budget-Planner"
+   cd "~/Documents/Project/Student-Budget-Planner"
    ```
 
 2. Install dependencies:
